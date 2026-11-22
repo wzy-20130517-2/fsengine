@@ -1,0 +1,12 @@
+# 编译产物
+*.o
+src/*.o
+fsengine-server
+bench_stable2
+cmp_seq
+
+# 模型和测试数据
+*.gguf
+*.bin
+*.jsonl
+*.log
